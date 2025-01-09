@@ -40,7 +40,7 @@ created_at datetime
 
 #DML - Insert 
 insert into countries values(1,'Saudi Arabia','Asia');
-insert into users values(1,'Ghadeer','ghad@mail.com','F','1996-09-28','2022-04-17',966);
+insert into users values(1,'Ghadeer','ghad@mail.com','F','1999-09-28','2022-04-17',966);
 insert into orders values(1,454,'start','2022-04-17 02:00:00');
 insert into products values(1,'makeup',500,'expired','2022-04-17 02:17:00');
 insert into order_products values(120,220,1);
